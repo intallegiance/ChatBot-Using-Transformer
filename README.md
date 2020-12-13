@@ -7,7 +7,7 @@ A Medical Question Answering chatbot using the Tranformer technology. This repos
 The dataset contains question and answer pairs stored in json format.
 
 The dataset was gathered from various sources on the interenet and the unneccessary columns were removed.Abstractive summarization was used for shortening the very long answers and preprocessing of the dataset was done to remove unneccessary tokens.
-An accuracy of 0.66 was achieved on the small covid dataset and 0.221 on the bigger dataset. The hyperparameters need to be tweaked according to the size and type of the dataset. Kindly change do trial and error to run this model on your own dataset. Smalller datasets are recommended to have a smaller batch_size.
+An accuracy of 0.66 was achieved on the small covid dataset and 0.221 on the bigger dataset. The hyperparameters need to be tweaked according to the size and type of the dataset. After many trial and errors we can reach ideal hyperparameter values that give good accuracy and output. Kindly do trial and error to run this model on your own dataset. Smalller datasets are recommended to have a smaller batch_size.
 
 Download the dataset to drive and make it sharebale to all with link. Change the id variable to the one present in link.Run the cells of the .ipynb.
 
