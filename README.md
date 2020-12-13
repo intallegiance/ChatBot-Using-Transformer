@@ -14,3 +14,4 @@ Download the dataset to drive and make it sharebale to all with link. Change the
 The link to the big dataset:https://drive.google.com/file/d/1rrqbtyxQTTbuONa3_ORMmR6e8YIedOuD/view
 
 
+![](/Screenshot/Covid1.png)
