@@ -13,7 +13,7 @@ Download the dataset to drive and make it sharebale to all with link. Change the
 
 The link to the big dataset:https://drive.google.com/file/d/1rrqbtyxQTTbuONa3_ORMmR6e8YIedOuD/view
 
-#Covid ChatBot
+<h1>Covid ChatBot</h1>
 
 <img src='Screenshots/Covid1.png' width="700" height="400">
 
@@ -21,7 +21,7 @@ The link to the big dataset:https://drive.google.com/file/d/1rrqbtyxQTTbuONa3_OR
 
 <img src='Screenshots/Covid3.png' width="700" height="400">
 
-#Big ChatBot
+<h1>Big ChatBot</h1>
 
 <img src='Screenshots/Big1.jpeg' width="700" height="400">
 
