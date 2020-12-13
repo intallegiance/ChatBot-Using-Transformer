@@ -23,8 +23,8 @@ The link to the big dataset:https://drive.google.com/file/d/1rrqbtyxQTTbuONa3_OR
 
 #Big ChatBot
 
-<img src='Screenshots/Big1.png' width="700" height="400">
+<img src='Screenshots/Big1.jpeg' width="700" height="400">
 
-<img src='Screenshots/Big2.png' width="700" height="400">
+<img src='Screenshots/Big2.jpeg' width="700" height="400">
 
-<img src='Screenshots/Big3png' width="700" height="400">
+<img src='Screenshots/Big3.jpeg' width="700" height="400">
