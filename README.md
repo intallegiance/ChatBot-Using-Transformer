@@ -6,7 +6,7 @@ A Medical Question Answering chatbot using the Tranformer technology. This repos
 
 The dataset contains question and answer pairs stored in json format.
 
-The dataset was gathered from various sources on the interenet and the unneccessary columns were removed and merged.Abstractive summarization was used for shortening the very long answers and preprocessing of the dataset was done to remove unneccessary tokens.
+The dataset was gathered from various sources on the interenet and the unneccessary columns were removed.Abstractive summarization was used for shortening the very long answers and preprocessing of the dataset was done to remove unneccessary tokens.
 An accuracy of 0.66 was achieved on the small covid dataset and 0.221 on the bigger dataset.
 
 Download the dataset to drive and make it sharebale to all with link. Change the id variable to the one present in link.Run the cells of the .ipynb.
