@@ -1,6 +1,6 @@
 # ChatBot-Using-Transformer
 
-We have made a chatbot using the Tranformer technology. This repository contains two transformer models, one trained on a small covid data set and one trained on a larger dataset containing this topics:
+We have made a chatbot using the Tranformer technology. This repository contains two transformer models, one trained on a small covid data set and one trained on a larger dataset containing these topics:
 
 'viral infection'
 'vitamins'
