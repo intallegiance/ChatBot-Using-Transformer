@@ -7,7 +7,7 @@ We have made a Medical Question Answering chatbot using the Tranformer technolog
 The dataset contains question and answer pairs stored in json format.
 
 We have gathered the dataset from various sources on the interenet, used summarization for long answers and preprocessing of the dataset to remove unneccessary tokens.
-We achieved and accuracy of 0.66 on the small covid dataset and 0.221 on the bigger dataset.
+We achieved an accuracy of 0.66 on the small covid dataset and 0.221 on the bigger dataset.
 
 Download the dataset to drive and make it sharebale to all with link. Change the id variable to the one present in link.Run the cells of the .ipynb.
 
