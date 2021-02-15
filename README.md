@@ -1,5 +1,6 @@
-# ChatBot-Using-Transformer
+This is chatbot created during the Hackoff v3.0 for the problem statement given by Siemens
 
+# ChatBot-Using-Transformer
 
 A Medical Question Answering chatbot using the Tranformer technology. This repository contains two transformer models; one trained on a small covid dataset (25k records) and one trained on a larger dataset (0.9 million records) containing these topics:
 
