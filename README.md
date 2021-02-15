@@ -1,4 +1,4 @@
-This is a chatbot created during the Hackoff v3.0 for the problem statement given by Siemens
+This is a chatbot created during the Hackoff v3.0 for the problem statement given by Siemens related to answer medical related questions.
 
 # ChatBot-Using-Transformer
 
