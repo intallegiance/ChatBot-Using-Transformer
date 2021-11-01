@@ -21,7 +21,7 @@ The link to the big dataset:https://drive.google.com/file/d/1rrqbtyxQTTbuONa3_OR
 
 <img src='Screenshots/Covid3.png' width="700" height="400"><hr>
 
-<h1>Big ChatBot</h1><hr>
+<h1>Big ChatBot </h1><hr>
 
 <img src='Screenshots/Big1.jpeg' width="700" height="400"><hr>
 
